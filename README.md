@@ -5,7 +5,6 @@
 In this lab, you'll use `this.props.children` to build reusable components and use `React.Children` utilities
 
 ## The party planner
-![Organizing a party](https://media.giphy.com/media/l2JdSrBGOtj0UpLOM/giphy.gif)
 
 Let's throw a party! The first thing we'll need is an invitation we can send to people, with a customized message:
 
